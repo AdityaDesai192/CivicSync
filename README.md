@@ -21,7 +21,7 @@ Built using **HTML, CSS, JavaScript, and Firebase** for authentication and data 
 - Improved mobile responsiveness  
 
 ## Screenshots
-*(Add screenshots of your web app UI here)*  
+
 ![Home Page](HomePage.png)
 
 ----
