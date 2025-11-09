@@ -38,13 +38,6 @@ Built using **HTML, CSS, JavaScript, and Firebase** for authentication and data 
 
 ----
 
-![Complaint List](ComplaintStatus.png)
-
-----
-
-![Manage Announcement](ManageAnnouncement.png)
-
-
 ## 👤 Developer
 ADITYA DESAI  
 [linkedin.com/in/aditya-desai-32114925a] • [desaiaditya940@gmail.com]
