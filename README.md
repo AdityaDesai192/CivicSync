@@ -23,10 +23,10 @@ Built using **HTML, CSS, JavaScript, and Firebase** for authentication and data 
 ## Screenshots
 *(Add screenshots of your web app UI here)*  
 ![Home Page](HomePage.png)
-![Complaint List](screenshots/complaintList.png)
-![Priority of Complaints](screenshots/priority.png)
-![Vote](screenshots/vote.png)
-![submit Complaint](screenshots/submitComplaint.png)
+![Complaint List](complaintList.png)
+![Priority of Complaints](priority.png)
+![Vote](vote.png)
+![submit Complaint](submitComplaint.png)
 
 
 ## 👤 Developer
