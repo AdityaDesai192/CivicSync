@@ -20,9 +20,10 @@ Built using **HTML, CSS, JavaScript, and Firebase** for authentication and data 
 - Cloud image storage (Cloudinary / Firebase Storage)  
 - Improved mobile responsiveness  
 
-## Screenshots
+## Screenshots   (few of the pages)
 
-![Home Page](HomePage.png)
+
+![Home Page](homePage.png)
 
 ----
 ![Complaint List](complaintList.png)
