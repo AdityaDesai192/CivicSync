@@ -36,6 +36,14 @@ Built using **HTML, CSS, JavaScript, and Firebase** for authentication and data 
 -----
 ![submit Complaint](submitComplaint.png)
 
+----
+
+![Complaint List](ComplaintStatus.png)
+
+----
+
+![Manage Announcement](ManageAnnouncement.png)
+
 
 ## 👤 Developer
 ADITYA DESAI  
