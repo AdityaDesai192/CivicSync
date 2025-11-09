@@ -24,7 +24,7 @@ if (signUpBtn) {
         const user = userCredential.user;
 
         // Set role in Firestore: admin or user
-        const role = (email === "desaiaditya940@gmail.com") ? "admin" : "user";
+        const role = (email === "admin_email@gmail.com") ? "admin" : "user";
 
         db.collection("users").doc(user.uid).set({
           email: email,
