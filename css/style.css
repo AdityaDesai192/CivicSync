@@ -1,0 +1,95 @@
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background: linear-gradient(90deg, #4b6cb7, #182848); /* Premium blue gradient */
+  padding: 15px 20px; /* Increased height */
+  gap: 12px;
+  flex-wrap: wrap;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  border-radius: 0 0 10px 10px; /* Rounded bottom edges */
+}
+
+.navbar button {
+  background-color: rgba(255, 255, 255, 0.15);
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.navbar button:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
+}
+
+/* Sections */
+.section {
+  display: none; /* JS will set active section to block */
+  padding: 30px 20px;
+}
+
+/* Initially show home */
+#home {
+  display: block;
+}
+
+/* Section headings - premium look */
+.section h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #1a1a72; /* Deep blue/premium color */
+  border-bottom: 2px solid #4b6cb7;
+  padding-bottom: 8px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Forms styling */
+form input, form textarea {
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 12px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+form button {
+  padding: 10px 20px;
+  background-color: #4b6cb7;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 15px;
+  transition: all 0.3s ease;
+}
+
+form button:hover {
+  background-color: #182848;
+}
+
+/* Lists styling */
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 12px;
+  padding: 15px;
+  background-color: #f0f4f8;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: all 0.2s ease;
+}
+
+ul li:hover {
+  background-color: #e2e8f0;
+}
